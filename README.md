@@ -5,5 +5,5 @@ It is a Text Summarizer that help to summarize the content of Video as well as C
 
 ## Results
 
-![Result 1](result1.png)
+![Result 1](result.png)
 
